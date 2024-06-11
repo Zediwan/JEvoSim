@@ -4,12 +4,6 @@
 
 In this project, we aim to simulate an ecosystem consisting of plants and animals. The ecosystem is modeled using object-oriented programming principles in Java. The simulation has several features, including the ability for organisms to move, eat, mate, and give birth to offspring. We also implement a neural network to model animal behavior and decision making.
 
-## Technologies
-
-The following technologies are used in this project:
-
-- Java
-
 ## Features
 
 List of features that are implemented in the simulation. For example:
