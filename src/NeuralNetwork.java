@@ -1,7 +1,3 @@
-package Main.NeuralNetwork;
-
-import Main.Helper.Matrix;
-import Main.Helper.mutable;
 
 import java.awt.*;
 import java.util.function.Function;

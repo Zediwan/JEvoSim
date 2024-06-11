@@ -1,4 +1,4 @@
-package Main.NeuralNetwork;
+
 import java.awt.*;
 import java.util.ArrayList;
 

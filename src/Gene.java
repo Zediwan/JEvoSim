@@ -1,7 +1,3 @@
-package Main.Organisms.Attributes.DNA;
-
-import Main.Helper.mutable;
-
 public class Gene implements mutable {
     private double value;
     private String name;

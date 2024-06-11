@@ -1,4 +1,3 @@
-package Main.Organisms.Attributes;
 
 public enum Diet {
     OMNIVORE{

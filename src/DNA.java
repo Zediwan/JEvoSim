@@ -1,8 +1,3 @@
-package Main.Organisms.Attributes.DNA;
-
-import Main.Helper.Vector2D;
-import Main.Helper.mutable;
-
 import java.awt.*;
 
 //TODO: Test

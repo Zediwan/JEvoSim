@@ -1,16 +1,3 @@
-package Main.Organisms;
-
-import Main.GUI.SimulationGUI;
-import Main.Helper.Transform;
-import Main.Helper.Vector2D;
-import Main.NeuralNetwork.NeuralNetwork;
-import Main.Organisms.Attributes.DNA.DNA;
-import Main.Organisms.Attributes.DNA.Gene;
-import Main.Organisms.Attributes.DNA.GeneType;
-import Main.Organisms.Attributes.Gender;
-import Main.World.Simulation;
-import Main.World.World;
-
 import java.awt.*;
 import java.awt.geom.AffineTransform;
 import java.awt.geom.Arc2D;

@@ -1,5 +1,3 @@
-package Main.NeuralNetwork;
-
 import java.util.function.Function;
 
 public class ActivationFunction {

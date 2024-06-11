@@ -1,7 +1,3 @@
-package Main;
-
-import Main.GUI.SimulationGUI;
-
 public class Main
 {
     public static void main(String[] args)

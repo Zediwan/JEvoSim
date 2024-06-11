@@ -1,11 +1,3 @@
-package Main.Organisms;
-
-import Main.GUI.SimulationGUI;
-import Main.Helper.Transform;
-import Main.Helper.Vector2D;
-import Main.Organisms.Attributes.DNA.DNA;
-import Main.World.Simulation;
-import Main.World.World;
 
 import java.awt.*;
 

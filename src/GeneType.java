@@ -1,4 +1,3 @@
-package Main.Organisms.Attributes.DNA;
 
 public enum GeneType {
     /**

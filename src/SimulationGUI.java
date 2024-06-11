@@ -1,9 +1,3 @@
-package Main.GUI;
-
-import Main.Organisms.Animal;
-import Main.Organisms.Plant;
-import Main.World.Simulation;
-import Main.World.World;
 
 import javax.swing.*;
 import java.awt.*;

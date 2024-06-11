@@ -1,8 +1,3 @@
-package Main.World;
-
-import Main.GUI.SimulationGUI;
-import Main.Organisms.Animal;
-import Main.Organisms.Plant;
 
 import java.awt.*;
 import java.awt.geom.Ellipse2D;

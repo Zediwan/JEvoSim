@@ -1,15 +1,9 @@
-package Main.World;
 
-import Main.Helper.Vector2D;
-import Main.Organisms.Animal;
-import Main.Organisms.Organism;
-import Main.Organisms.Plant;
-
-import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
+import javax.swing.*;
 
 public class Simulation extends JPanel implements ActionListener {
     //static final int TIME_PERIOD = 24;  //TODO: find out what this is for

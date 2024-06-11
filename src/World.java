@@ -1,7 +1,3 @@
-package Main.World;
-
-import Main.Organisms.Animal;
-import Main.Organisms.Plant;
 
 import java.awt.*;
 import java.awt.geom.Rectangle2D;

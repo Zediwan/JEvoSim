@@ -1,25 +1,25 @@
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
+// import org.junit.jupiter.api.AfterEach;
+// import org.junit.jupiter.api.BeforeEach;
+// import org.junit.jupiter.api.Test;
 
-class AnimalTest {
+// class AnimalTest {
 
-    @BeforeEach
-    void setUp() {
+//     @BeforeEach
+//     void setUp() {
 
-    }
+//     }
 
-    @AfterEach
-    void tearDown() {
-    }
+//     @AfterEach
+//     void tearDown() {
+//     }
 
-    @Test
-    void emptyConstructor(){
+//     @Test
+//     void emptyConstructor(){
 
-    }
+//     }
 
-    @Test
-    void getFieldOfView(){
+//     @Test
+//     void getFieldOfView(){
 
-    }
-}
+//     }
+// }
